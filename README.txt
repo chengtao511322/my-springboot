@@ -1,0 +1,3 @@
+该项目是自己学习springboot的项目
+自己手动实现一遍springboot的自动配置功能
+程序员只需要改变或者添加tomcat和jetty的依赖,springboot就能自动配置相关的bean
